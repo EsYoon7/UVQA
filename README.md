@@ -16,5 +16,5 @@ You can download the annotations with provided link directly from [Link](https:/
 
 * **Frame Extraction**
 For the fast process, we extract the frame from the video in advance. 
-After extraction, you can add each frame folder in `training_code/data_utils/data_constant.py`
+After extraction, you can add each frame folder in `training_code/data_utils/data_constant.py`.
 
