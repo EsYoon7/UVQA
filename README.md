@@ -7,7 +7,7 @@ You can refer following GitHub link to get the video for the dataset [MOMA-LRG](
 You can download the annotations with their script or directly from [Google Drive](https://drive.google.com/file/d/1stizUmyHY6aNxxbxUPD5DvoibBvUrKZW/view?usp=sharing):
 
 
-* **Attributed related categories**  
+* **Attributed related categories**  (DiDeMo)
 Now all the way that we can use is not applicable. I'm looking for the way to download the YFCC100M videos.
 
 * Answerable dataset (Video-ChatGPT)
